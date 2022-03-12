@@ -1,0 +1,57 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border:1px solid rgb(87, 2, 2);
+}
+#img
+{
+    width: 300px;
+    height: 200px;
+    box-shadow:0 6px 8px 0 rgba(2, 2, 2, ) ;
+
+}
+picture
+{
+    width: 150px;
+    height: 100px;
+}
+#img_1
+{
+    width: 300px;
+    height: 200px;
+    border-radius: 30;
+    box-shadow: inset;
+    
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    background-color: aqua;
+}
+h1{
+    font-size: xx-large;
+    font-weight: bolder;
+    font-style: italic;
+}
+#img:hover{
+    border-radius: 140px;
+}
+#img_1:hover{
+    border-radius: 140px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+ }
